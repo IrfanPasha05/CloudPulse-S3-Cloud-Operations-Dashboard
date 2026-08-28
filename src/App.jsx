@@ -76,7 +76,7 @@ function App() {
             <section className="hero">
               <div>
                 <span className="pill"><span className="dot"></span> Production healthy</span>
-                <h2>Ship with confidence. 🚀</h2>
+                <h2>Ship with confidence and strong. 🚀</h2>
                 <p>CloudPulse demonstrates a production-style S3 hosting workflow powered by GitHub Actions.</p>
                 <div className="hero-actions">
                   <button className="primary" onClick={() => setActive("Deployments")}>View deployments →</button>
